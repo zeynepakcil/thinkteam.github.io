@@ -32,7 +32,8 @@ github_username:  "https://github.com/THInK-Team"
 markdown: kramdown
 theme: "uswds-jekyll"
 styles:
-  - /assets/main.css
+  - /thinkteam.github.io/assets/main.css
+  #- /assets/main.css
 sass:
     sass_dir: _sass
 gems:
