@@ -19,7 +19,10 @@ description: >
   At THInK Team, we focus on enabling heterogeneous integration of systems. 
   We deep dive into fine-pitch integration platforms and generate design methodologies, circuits, 
   and EDA tools to increase system performance, reduce energy footprint, and enable novel applications.
-baseurl: ""
+# baseurl: ""
+url: "https://zeynepakcil.github.io"
+baseurl: "/thinkteam.github.io"
+
 # TODO: Is url used for anything? Always confusing when demo site points to the live one.
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "" # TODO
