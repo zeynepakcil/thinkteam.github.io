@@ -1,0 +1,81 @@
+# TODO add or delete
+# -
+#   title: 'Nils Gehlenborg wins 2018 John Kendrew Award'
+#   outlet: 'EMBL Alumni News'
+#   date: '2018'
+#   url: 'https://www.embl.it/aboutus/alumni/news/news_2018/20180302_gehlenborg/'
+#   blurb: '"EMBL alumnus Nils Gehlenborg is pushing forward the visualisation of complex genomic and clinical datasets with highly innovative contributions."'
+#   members:
+#     - nils-gehlenborg
+#   projects:
+# -
+#   title: 'Data Visualization Innovations in Life Sciences and Drug Discovery'
+#   outlet: 'Technology Networks'
+#   date: '2018'
+#   url: 'https://www.technologynetworks.com/informatics/articles/data-visualization-innovations-in-life-sciences-and-drug-discovery-296360'
+#   blurb: '"Data visualization makes its comeback — from static plots to storytelling."'
+#   members:
+#     - nils-gehlenborg
+#   projects:
+# -
+#   title: 'The most popular genes in the human genome'
+#   outlet: 'Nature'
+#   date: '2017'
+#   url: 'https://www.nature.com/articles/d41586-017-07291-9'
+#   blurb: '"Peter Kerpedjiev needed a crash course in genetics. A software engineer with some training in bioinformatics, he was pursuing a PhD and thought it would really help to know some fundamentals of biology. If I wanted to have an intelligent conversation with someone, what genes do I need to know about? he wondered."'
+#   members:
+#     - peter-kerpedjiev
+#   projects:
+# -
+#   title: 'TechBlog: HiPiler simplifies chromatin structure analysis'
+#   outlet: 'Nature News'
+#   date: '2017'
+#   url: 'http://blogs.nature.com/naturejobs/2017/09/11/techblog-hipiler-simplifies-chromatin-structure-analysis/'
+#   blurb: '"Using bioinformatic algorithms, researchers can query chromatin-contact datasets to find all such structures. But these algorithms may return thousands of hits. How is a researcher to study them? Enter HiPiler. Developed by Gehlenborg’s lab in collaboration with the lab of Hanspeter Pfister at the John A. Paulson School of Engineering and Applied Sciences at Harvard, HiPiler excises these features and presents them on a canvas as miniature snippets — basically tiny segments of the full-sized contact map, which users can then organize, sort, and cluster based on parameters such as noise or location."'
+#   members:
+#     - nils-gehlenborg
+#     - fritz-lekschas
+#     - peter-kerpedjiev
+#   projects:
+#     - hipiler
+#     - higlass
+# -
+#   title: 'Toolbox: Plot a course through the genome'
+#   outlet: 'Nature News'
+#   date: '2017'
+#   url: 'https://www.nature.com/news/plot-a-course-through-the-genome-1.22553'
+#   blurb: '"Inspired by Google Maps, a suite of tools is allowing researchers to chart the complex conformations of chromosomes."'
+#   members:
+#     - nils-gehlenborg
+#     - peter-kerpedjiev
+#   projects:
+#     - higlass
+# -
+#   title: 'Big biology projects warm up to preprints'
+#   outlet: 'Nature News'
+#   date: '2016'
+#   url: 'https://www.nature.com/news/big-biology-projects-warm-up-to-preprints-1.21074'
+#   blurb: '"Consortium backed by US National Institutes of Health is first major biology programme to mandate online publication of results ahead of peer review."'
+#   members:
+#     - nils-gehlenborg
+#   projects:
+#     - 4dn-dcic
+# -
+#   title: 'Video Tip of the Week: UpSet about genomics Venn Diagrams?'
+#   outlet: 'The OpenHelix Blog'
+#   date: '2014'
+#   url: 'http://blog.openhelix.eu/?p=20201'
+#   blurb: '"Looking for both effective and efficient representation of the types of data genomics researchers need, this interactive tool is a really nice way to explore which items belong in which subset. And, of course, which ones don’t.  But that’s just the beginning."'
+#   members:
+#     - nils-gehlenborg
+#     - jake-conway
+#   projects:
+#     - upsetr
+# -
+#   title: "What's behind a No. 1 ranking? Open-source LineUp software enables granular analysis of subjective ranking systems"
+#   outlet: 'phys.org'
+#   date: '2014'
+#   url: 'https://phys.org/news/2014-01-open-source-lineup-software-enables-granular.html'
+#   blurb: '"To shed light on the trustworthiness of rankings, Harvard researchers have created LineUp, an open-source application that empowers ordinary citizens to make quick, easy judgments about rankings based on multiple attributes."'
+#   members:
+#     - nils-gehlenborg

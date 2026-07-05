@@ -1,0 +1,31 @@
+# Whether to show the "Return to top" link; can also be
+# configured as an object with 'text' and 'href' properties.
+# top: false
+
+# Which links to show at the top of the footer.
+# This can key into _data/navigation.yml or a list of link objects
+# with 'text' and 'href' properties.
+#links: footer
+
+# An array of agency logos to show, side by side, in the lower left
+# of the footer on large screens.
+#logos:
+#  - src: /assets/img/logos/hms.svg
+#    alt: UCI EECS
+
+#contact:
+#  address:
+#    <b>THInK Team</b> /
+#    <a href="https://engineering.uci.edu">UCI Samueli School of Engineering</a> /
+#    <a href="https://engineering.uci.edu/dept/eecs">Nhu Department of Electrical Engineering and Computer Science</a>
+
+# TODO delete
+# accessibility:
+#   policy:
+#     <div style="text-align:right">
+#       <em>
+#         <a href="/accessibility-statement/">HIDIVE Lab Accessibility Statement</a>
+#         |
+#         <a href="https://accessibility.huit.harvard.edu/digital-accessibility-policy" target="_blank">Harvard Digital Accessibility Policy</a>
+#       </em>
+#     </div>

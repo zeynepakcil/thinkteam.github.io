@@ -1,0 +1,159 @@
+---
+layout: page
+---
+{% assign id = page.url | split: '/' | last %}
+{% assign altText = page.alt | default: page.title %}
+{% if page.photo == 'placeholder.png' %}
+  {% assign altText = "Placeholder headshot. A dark gray silhouette of a person's head in front of a gray background." %}
+{% endif %}
+<!-- placeholder.png -->
+
+<h1>{{ page.name_degree | default: page.title }}</h1>
+
+<div class="usa-grid-full">
+  <aside class="usa-width-one-third">
+    <div>
+      <img src="/assets/img/members/fullsize/{{ page.photo }}" alt="{{ altText }}">
+    </div>
+
+    <br>
+    <div id="services">
+      {% for service in page.services %}
+        <a href="{{ service[1] }}"><img style="height: 32px" src="/assets/img/services/{{ service[0] }}.svg" alt="{{service[0]}}"></a>
+        &nbsp;
+      {% endfor %}
+    </div>
+
+    {% if page.title == 'Nils Gehlenborg' %}
+      <a href="/research/projects/"><p class="header-link">Projects</p></a>
+      <a href="/publications/"><p class="header-link">Publications</p></a>
+    {% else %}
+
+      <!-- BEGIN Projects -->
+      {% comment %}
+      unfortunately ensuring there are no empty UL elements means double iteration in Liquid
+      {% endcomment %}
+      {% assign has_matches = false %}
+      {% for project in site.projects %}
+        {% for member in project.members %}
+          {% if member == id %}
+            {% assign has_matches = true %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+      {% if has_matches %}
+        <h2 id="projects">Projects</h2>
+        <ul>
+        {% for project in site.projects %}
+          {% for member in project.members %}
+            {% if member == id %}
+              <li><a href="{{ project.url }}">{{ project.name }}</a></li>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+        </ul>
+      {% endif %}
+      <!-- END Projects -->
+
+      <!-- BEGIN Teams -->
+      {% comment %}
+      unfortunately ensuring there are no empty UL elements means double iteration in Liquid
+      {% endcomment %}
+      {% assign has_matches = false %}
+      {% for team in site.teams %}
+        {% for member in team.members %}
+          {% if member == id %}
+            {% assign has_matches = true %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+      {% if has_matches %}
+        <h2 id="teams">Teams</h2>
+        <ul>
+        {% for team in site.teams %}
+          {% for member in team.members %}
+            {% if member == id %}
+              <li><a href="{{ team.url }}">{{ team.name }}</a></li>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+        </ul>
+      {% endif %}
+      <!-- END Teams -->
+
+    {% endif %}
+    
+
+  </aside>
+
+  <div class="usa-width-two-thirds">
+    <h2 id="biography">Biography</h2>
+    <h3>{{ page.job_title }}</h3>
+    
+    {{ content }}
+
+    {% capture news_list %}
+      {% for news in site.news %}
+        {% for member in news.members %}
+          {% if member == id %}
+            <li><a href="{{ news.url }}">{{ news.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% endcapture %}
+    {% assign news_list = news_list | strip %}
+    {% if news_list != '' %}
+      <h2 id="news">News</h2>
+      <ul>
+        {{ news_list }}
+      </ul>
+    {% endif %}
+
+    {% capture media_list %}
+      {% for media in site.data.media %}
+        {% for member in media.members %}
+          {% if member == id %}
+            <dt class="media-mention">
+              <b>{{ media.outlet }}</b> ({{ media.date }})<br>
+              <a href="{{ media.url }}">{{ media.title }}</a>
+            </dt>
+            <dd class="media-mention">
+              <p>
+              {{ media.blurb }}
+              </p>
+            </dd>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% endcapture %}
+    {% assign media_list = media_list | strip %}
+    {% if media_list != '' %}
+      <h2 id="media">Media</h2>
+      <dl>
+        {{ media_list }}
+      </dl>
+    {% endif %}
+
+    {% if page.title != 'Nils Gehlenborg' %}
+    {% capture publications_list %}
+      {% for publication in site.publications %}
+        {% for member in publication.members %}
+          {% if member == id %}
+            <li><a href="{{ publication.url }}">{{ publication.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% endcapture %}
+    {% assign publications_list = publications_list | strip %}
+    {% if publications_list != '' %}
+      <h2>Publications</h2>
+      <ul>
+        {{ publications_list }}
+      </ul>
+    {% endif %}
+    {% endif %}
+  </div>
+
+</div>
