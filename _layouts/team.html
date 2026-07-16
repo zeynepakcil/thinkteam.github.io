@@ -12,22 +12,22 @@ layout: page
   <div class="usa-width-two-thirds">
 
     {% if page.image and page.image_alt %}
-      <img alt="{{ page.image_alt }}" src="/assets/img/publications/fullsize/{{ page.image }}">
+      <img alt="{{ page.image_alt }}" src="{{ '/assets/img/publications/fullsize/' | append: page.image | relative_url }}">
     {% endif %}
 
     {{ content }}
 
     {% if page.gallery.size > 0 %}
       <h2>Gallery</h2>
-      <img src="/assets/img/publications/fullsize/{{ page.gallery.first[0] }}">
+      <img src="{{ '/assets/img/publications/fullsize/' | append: page.gallery.first[0] | relative_url }}">
       <small>{{ page.gallery.first[1] }}</small>
       <br>
       {% for image in page.gallery %}
-        <a href="/assets/img/publications/fullsize/{{ image[0] }}"
+        <a href="{{ '/assets/img/publications/fullsize/' | append: image[0] | relative_url }}"
            data-lightbox="lightbox-group"
            data-title="{{ image[1] }}"
           ><img class="thumb"
-                src="/assets/img/publications/thumbnail/{{ image[0] }}"
+                src="{{ '/assets/img/publications/thumbnail/' | append: image[0] | relative_url }}"
                 alt="{{ image[1] }}"></a>
       {% endfor %}
     {% endif %}

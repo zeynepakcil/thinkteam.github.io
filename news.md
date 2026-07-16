@@ -26,7 +26,7 @@ permalink: /news/
           <h3>{{ news.title }}</h3>
           <p>
             <b>{{ news.date | date: "%-d %B %Y" }}</b> |
-            {{ news.blurb }} <a href="{{news.url}}">More ...</a>
+            {{ news.blurb }} <a href="{{ news.url | relative_url }}">More ...</a>
           </p>
 
         {% endif %}

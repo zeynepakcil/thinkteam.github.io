@@ -9,9 +9,9 @@ layout: page
   <div class="usa-width-two-thirds">
     {% if page.image %}
       {% if page.image-alt %}
-        <img src="/assets/img/publications/fullsize/{{ page.image }}" alt="{{ page.image-alt }}">
+        <img src="{{ '/assets/img/publications/fullsize/' | append: page.image | relative_url }}" alt="{{ page.image-alt }}">
       {% else %}
-        <img src="/assets/img/publications/fullsize/{{ page.image }}">
+        <img src="{{ '/assets/img/publications/fullsize/' | append: page.image | relative_url }}">
       {% endif %}
     {% endif %}
 
@@ -55,7 +55,7 @@ layout: page
       {% for project in site.projects %}
         {% for publication in project.publications %}
           {% if publication == id %}
-            <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+            <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
           {% endif %}
         {% endfor %}
       {% endfor %}

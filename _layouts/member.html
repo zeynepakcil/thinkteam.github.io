@@ -13,21 +13,16 @@ layout: page
 <div class="usa-grid-full">
   <aside class="usa-width-one-third">
     <div>
-      <img src="/assets/img/members/fullsize/{{ page.photo }}" alt="{{ altText }}">
+      <img src="{{ '/assets/img/members/fullsize/' | append: page.photo | relative_url }}" alt="{{ altText }}">
     </div>
 
     <br>
     <div id="services">
       {% for service in page.services %}
-        <a href="{{ service[1] }}"><img style="height: 32px" src="/assets/img/services/{{ service[0] }}.svg" alt="{{service[0]}}"></a>
+        <a href="{{ service[1] }}"><img style="height: 32px" src="{{ '/assets/img/services/' | append: service[0] | append: '.svg' | relative_url }}" alt="{{service[0]}}"></a>
         &nbsp;
       {% endfor %}
     </div>
-
-    {% if page.title == 'Nils Gehlenborg' %}
-      <a href="/research/projects/"><p class="header-link">Projects</p></a>
-      <a href="/publications/"><p class="header-link">Publications</p></a>
-    {% else %}
 
       <!-- BEGIN Projects -->
       {% comment %}
@@ -48,7 +43,7 @@ layout: page
         {% for project in site.projects %}
           {% for member in project.members %}
             {% if member == id %}
-              <li><a href="{{ project.url }}">{{ project.name }}</a></li>
+              <li><a href="{{ project.url | relative_url }}">{{ project.name }}</a></li>
             {% endif %}
           {% endfor %}
         {% endfor %}
@@ -75,16 +70,13 @@ layout: page
         {% for team in site.teams %}
           {% for member in team.members %}
             {% if member == id %}
-              <li><a href="{{ team.url }}">{{ team.name }}</a></li>
+              <li><a href="{{ team.url | relative_url }}">{{ team.name }}</a></li>
             {% endif %}
           {% endfor %}
         {% endfor %}
         </ul>
       {% endif %}
       <!-- END Teams -->
-
-    {% endif %}
-    
 
   </aside>
 
@@ -136,12 +128,11 @@ layout: page
       </dl>
     {% endif %}
 
-    {% if page.title != 'Nils Gehlenborg' %}
     {% capture publications_list %}
       {% for publication in site.publications %}
         {% for member in publication.members %}
           {% if member == id %}
-            <li><a href="{{ publication.url }}">{{ publication.title }}</a></li>
+            <li><a href="{{ publication.url | relative_url }}">{{ publication.title }}</a></li>
           {% endif %}
         {% endfor %}
       {% endfor %}
@@ -152,7 +143,6 @@ layout: page
       <ul>
         {{ publications_list }}
       </ul>
-    {% endif %}
     {% endif %}
   </div>
 

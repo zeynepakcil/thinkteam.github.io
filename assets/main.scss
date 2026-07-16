@@ -376,3 +376,38 @@ ol.publication-list {
   line-height: 1.5;
   max-width: none;
 }
+
+/* ------------------------------------------------------------------ */
+/* Layout width & centering fixes                                      */
+/* ------------------------------------------------------------------ */
+
+/* `.grid-container` wraps every "home" layout page (Team, Publications,
+   Invited Talks, Contact) but has no CSS rule anywhere in this
+   stylesheet - it belongs to a newer USWDS bundle this site doesn't
+   import. Give it a sensible width and center it. */
+.grid-container {
+  max-width: 64rem; /* adjust to taste, e.g. 70rem for wider */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* These had a max-width but no auto margins, so they stuck to the
+   left edge of their (wide) parent instead of centering. */
+.citation-list-page,
+.invited-talks-list {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* USWDS caps paragraph/list width at 53rem on "page" layout content
+   (used by the Research page) with no centering. Let it use the full
+   column width instead. */
+.usa-content {
+  p,
+  ul,
+  ol {
+    max-width: none;
+  }
+}
