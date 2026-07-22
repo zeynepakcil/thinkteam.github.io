@@ -1,12 +1,9 @@
-# gehlenborglab-website [![Build Status](https://github.com/hms-dbmi/gehlenborglab-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/hms-dbmi/gehlenborglab-website/actions)
+# THInK Team-website [![Build Status](https://github.com/zeynepakcil.github.io/thinkteam.github.io)](https://github.com/zeynepakcil.github.io/thinkteam.github.io)
 
-Looking for [website updating instructions](./docs/)?
 
 (Need to set up your own Jekyll/S3 site? See [generate-static-site](https://github.com/hms-dbmi/generate-static-site).)
 
-The HIDIVE Lab website uses Jekyll plugins beyond those supported by GitHub Pages.
-Instead, when the main branch is updated, Github Actions builds `_site` and pushes it
-to the appropriate S3 bucket. You will need to need to have a working, up-to-date ruby environment.
+THInK Team website uses Jekyll plugins beyond those supported by GitHub Pages.
 
 Install `rvm` [https://rvm.io/rvm/install]. RVM should load or prompt for installation of the ruby version in .ruby_version on entry to the project folder.
 

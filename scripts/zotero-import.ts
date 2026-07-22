@@ -41,8 +41,8 @@ let DETAILS_OVERRIDE = new Set([
   "Statistical Weight Refresh System for CTT-Based Synaptic Arrays",
 ]);
 
-let MONTH_RE =
-  /\b(January|February|March|April|May|June|July|August|September|October|November|December)\b/gi;
+/**let MONTH_RE =
+  /\b(January|February|March|April|May|June|July|August|September|October|November|December)\b/gi;*/
 
 /** "S. S. Iyer" -> { firstName: "S. S.", lastName: "Iyer" } */
 export function splitName(raw: string): Record<string, string> {
