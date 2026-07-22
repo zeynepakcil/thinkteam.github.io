@@ -45,6 +45,8 @@ exclude:
   - README.md
   - docs/*
   - _members/template.md
+  - _projects/project-template.md
+  - _themes/project-name.md
   - .travis.yml
   - vendor
 

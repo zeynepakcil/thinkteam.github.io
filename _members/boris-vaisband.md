@@ -3,7 +3,7 @@ title: Boris Vaisband
 name_degree: Boris Vaisband, PhD
 
 photo: boris-vaisband.png # this file is relative to `assets/img/members/fullsize`
-alt: An image of a man smiling. # the alt text that describes this photo for screen reader users. Mandatory if you use a photo.
+alt: An image of a man smiling. # the alt text that describes this photo
 
 job_title: Assistant Professor of Electrical Engineering and Computer Science
 role: pi # postdoc, phd, ms-students, undergraduate, alumni
