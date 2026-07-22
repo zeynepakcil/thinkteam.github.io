@@ -1,784 +1,815 @@
-- category: patent
-  year: 2024
-  sort_date: 2024-11-19
-  title: "On-chip Electrostatic Discharge Sensor"
-  authors: "S. S. Iyer, K. K. Thankappan, and B. Vaisband"
-  venue: "United States Patent"
-  status: "Published November 19, 2024"
-  number: "US12148748B2"
-  link:
-  note:
-
-- category: patent
-  year: 2022
-  sort_date: 2022-02-01
-  title: "Network on Interconnect Fabric and Integrated Antenna"
-  authors: "B. Vaisband, S. S. Iyer, A. Bajwa, A. Dasgupta, and A. Alam"
-  venue: "United States Patent"
-  status: "Published February 1, 2022"
-  number: "US11239542B2"
-  link:
-  note:
-
-- category: patent
-  year: 2019
-  sort_date: 2019-05-09
-  title: "Power Distribution within Silicon Interconnect Fabric"
-  authors: "B. Vaisband, S. S. Iyer, and A. Bajwa"
-  venue: "United States Patent"
-  status: "Published May 9, 2019"
-  number: "WO2019089935A1"
-  link:
-  note:
-
-- category: book_chapter
-  year: 2022
-  sort_date: 2022-01-01
-  title: "Heterogeneous Integration at Scale"
-  authors: "S. S. Iyer and B. Vaisband"
-  venue: "Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS"
-  publisher: "Wiley/IEEE"
-  editor: "A. Chen"
-  link:
-  note:
-
-- category: book_chapter
-  year: 2017
-  sort_date: 2017-01-01
-  title: "Substrate Noise Coupling in Heterogeneous 3-D ICs"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Three-Dimensional Integrated Circuit Design, 2nd Edition"
-  publisher: "Morgan Kaufmann"
-  editor: "V. F. Pavlidis, I. Savidis, and E. G. Friedman"
-  link:
-  note:
-
-- category: book_chapter
-  year: 2017
-  sort_date: 2017-01-01
-  title: "3-D IC Floorplanning Based on Thermal Interactions"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Noise Coupling in System-on-Chip"
-  publisher: "CRC Press"
-  editor: "T. Noulis"
-  link:
-  note:
-
-- category: book_chapter
-  year: 2017
-  sort_date: 2017-01-01
-  title: "TSV to Substrate Noise Coupling in Heterogeneous 3-D ICs"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Noise Coupling in System-on-Chip"
-  publisher: "CRC Press"
-  editor: "T. Noulis"
-  link:
-  note:
-
-- category: journal
-  year: 2026
-  sort_date: 2026-05-01
-  title: "Near Real-Time Spike-Driven Synaptic Plasticity for CTT-Based Neuromorphic Systems"
-  authors: "A. Chandrasekaran, S. Dayo, M. Karimi, and B. Vaisband"
-  venue: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)"
-  doi:
-  pdf:
-  details: Vol. 16, No. 2, pp. 593-606, May 
-  code:
-  note: 
-
-- category: journal
-  year: 2026
-  sort_date: 2026-04-01
-  title: "TSV-Based Shoelace Inductor: A High-Density Solution for Advanced Packaging Platforms"
-  authors: "Y. Zhao, Y. Safari, and B. Vaisband"
-  venue: "IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)"
-  doi:
-  pdf:
-  details: Vol. 16, No. 4, pp. 703-717, April 
-  code:
-  note: 
-
-- category: journal
-  year: 2026
-  sort_date: 2026-01-01
-  title: "Hardware-Aware Offline Training of CTT-Based Neuromorphic Hardware"
-  authors: "R. Mohammadrezaee, A. Saeed Monir, O. T. Gumus, N. Shams, and B. Vaisband"
-  venue: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)"
-  doi:
-  pdf:
-  details: Vol. 34, No. 5, pp. 1528-1541, pp. 1528-1541, January
-  code:
-  note: 
-
-- category: journal
-  year: 2025
-  sort_date: 2025-07-01
-  title: "Chiplets Interface Protocol (ChIP) for Ultra-Large-Scale Applications"
-  authors: "A. Delavari and B. Vaisband"
-  venue: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)"
-  doi:
-  pdf:
-  details: Vol. 15, No. 3, pp. 585-598, July
-  code:
-  note: 
-
-- category: journal
-  year: 2025
-  sort_date: 2025-06-01
-  title: "Thermal Simulator for Advanced Packaging and Chiplet-Based Systems"
-  authors: "Y. Safari, A. Corbier, D. Al Saleh, F. R. Amik, and B. Vaisband"
-  venue: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)"
-  doi:
-  pdf:
-  details: Vol. 33, No. 6, pp. 1638-1650, March
-  code:
-  note: Best of TVLSI Paper.
-  
-- category: journal
-  year: 2023
-  sort_date: 2023-03-01
-  title: "CTT-Based Scalable Neuromorphic Architecture"
-  authors: "M. Karimi, A. Saeed Monir, R. Mohammadrezaee, and B. Vaisband"
-  venue: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)"
-  doi:
-  pdf:
-  details: Vol. 13, No. 1, pp. 96-107, March
-  code:
-  note: "JETCAS Spotlight Paper."
-
-- category: journal
-  year: 2023
-  sort_date: 2023-01-01
-  title: "A Robust Integrated Power Delivery Methodology for 3-D ICs"
-  authors: "Y. Safari and B. Vaisband"
-  venue: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)"
-  doi:
-  pdf:
-  details: Vol. 31, No. 3, pp. 287-295 March
-  code:
-  note:
-
-- category: journal
-  year: 2022
-  sort_date: 2022-12-01
-  title: "A 7.6‑ns Delay Subthreshold Level-Shifter Leveraging a Composite Transistor and a Voltage-Controlled Current Source"
-  authors: "M. Karimi, M. Ali, A. Hassan, R. Bostani, B. Vaisband, M. Sawan, and B. Gosselin"
-  venue: "IEEE Access"
-  doi:
-  pdf:
-  details: Vol. 10, pp. 132432-132447, December
-  code:
-  note:
-
-- category: journal
-  year: 2022
-  sort_date: 2022-07-01
-  title: "An On-Chip ESD Sensor for Use in Advanced Packaging"
-  authors: "K. K. Thankappan, B. Vaisband, K. Sahoo, and S. S. Iyer"
-  venue: "IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)"
-  doi:
-  pdf:
-  details: Vol. 12, No. 7, pp. 1051-1062, July
-  code:
-  note:
-
-- category: journal
-  year: 2022
-  sort_date: 2022-02-01
-  title: "Wafer-Scale Integration"
-  authors: "Y. Safari and B. Vaisband"
-  venue: "Wiley Encyclopedia of Electrical and Electronics Engineering"
-  doi:
-  pdf:
-  details: pp. 1-10, February
-  code:
-  note:
-
-- category: journal
-  year: 2020
-  sort_date: 2020-03-01
-  title: "Assembly Process and Electrical Property of Top-Transferred Graphene on Carbon Nanotubes for Carbon-Based Three-Dimensional Interconnects"
-  authors: "Y. Zhu, C. W. Tan, S. L. Chua, Y. D. Lim, B. Vaisband, B. K. Tay, E. G. Friedman, C. S. Tan"
-  venue: "IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)"
-  doi:
-  pdf:
-  details: Vol. 10, No. 3, pp. 516-524, March
-  code:
-  note:
-
-- category: journal
-  year: 2020
-  sort_date: 2020-02-01
-  title: "EMI Suppression with Distributed LLC Resonant Converter for High Voltage VR-on-Package"
-  authors: "K. Xu, B. Vaisband, G. Sizikov, X. Li, and E. G. Friedman"
-  venue: "IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)"
-  doi:
-  pdf:
-  details: Vol. 10, No. 2, pp. 263-271, February
-  code:
-  note:
-
-- category: journal
-  year: 2019
-  sort_date: 2019-11-01
-  title: "Silicon Interconnect Fabric: A Versatile Heterogeneous Integration Platform for AI Systems"
-  authors: "S. S. Iyer, S. Jangam, and B. Vaisband"
-  venue: "IBM Journal of Research and Development"
-  doi:
-  pdf:
-  details: Vol. 63, No. 6, pp. 5:1-5:16, November/December
-  code:
-  note:
-
-- category: journal
-  year: 2019
-  sort_date: 2019-04-01
-  title: "Power Noise and Near Field EMI of High Current System-in-Package with VR Top and Bottom Placement"
-  authors: "K. Xu, B. Vaisband, G. Sizikov, X. Li, and E. G. Friedman"
-  venue: "IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)"
-  doi:
-  pdf:
-  details: Vol. 9, No. 4, pp. 712-718, April
-  code:
-  note:
-
-- category: journal
-  year: 2018
-  sort_date: 2018-10-01
-  title: "Heterogeneous 3-D ICs as a Platform for Hybrid Energy Harvesting in IoT Systems"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Future Generation Computer Systems (FGCS)"
-  doi:
-  pdf:
-  details: Vol. 87, pp. 152-158, October
-  code:
-  note:
-
-- category: journal
-  year: 2018
-  sort_date: 2018-05-01
-  title: "Electrical and Thermal Models of CNT TSV and Graphite Interface"
-  authors: "B. Vaisband, A. Maurice, C. W. Tan, B. K. Tay, and E. G. Friedman"
-  venue: "IEEE Transactions on Electron Devices (TED)"
-  doi:
-  pdf:
-  details: Vol. 65, No. 5, pp. 1880-1886, May
-  code:
-  note:
-
-- category: journal
-  year: 2017
-  sort_date: 2017-01-01
-  title: "Hexagonal TSV Bundle Topology for 3-D ICs"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)"
-  doi:
-  pdf:
-  details: Vol. 64, No. 1, pp. 11-15, January
-  code:
-  note:
-
-- category: journal
-  year: 2016
-  sort_date: 2016-08-01
-  title: "Noise Coupling Models in Heterogeneous 3-D ICs"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, (TVLSI)"
-  doi:
-  pdf:
-  details: Vol. 24, No. 8, pp. 2778-2786, August
-  code:
-  note:
-
-- category: journal
-  year: 2015
-  sort_date: 2015-10-01
-  title: "Experimental Analysis of Thermal Coupling in 3-D Integrated Circuits"
-  authors: "I. Savidis, B. Vaisband, and E. G. Friedman"
-  venue: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)"
-  doi:
-  pdf:
-  details: Vol. 23, No. 10, pp. 2077-2089, October
-  code:
-  note:
-
-- category: conference
-  year: 2026
-  sort_date: 2026-06-01
-  title: "Multi-Range Communication for Chiplet-Based Systems"
-  authors: "A. Delavari, A. Chandrasekaran, and B. Vaisband"
-  venue: "Proceedings of the ACM Great Lakes Symposium on VLSI (GLSVLSI)"
-  doi:
-  pdf:
-  details: June
-  code:
-  note: "Best Poster Award."
-  
-- category: conference
-  year: 2025
-  sort_date: 2025-06-01
-  title: "Power Delivery for Scaled-Out Chiplet-Based Wafer-Scale Systems with 8 um Cu-Cu Bond Pitch on Active Si-Interconnect Fabric Substrate"
-  authors: "H. Ren, Z. Guo, B. Yang, K. Sahoo, N. M. Sundaram, Z. Chen, S. Singh, T. S. Fisher, C.-K. K. Yang, B. Razavi, B. Vaisband, and S. S. Iyer"
-  venue: "Proceedings of the IEEE Symposium on VLSI Technology and Circuits (VLSI Symposium)"
-  doi:
-  pdf:
-  details: June
-  code:
-  note: 
-
-- category: conference
-  year: 2025
-  sort_date: 2025-05-01
-  title: "Integrated Passive Devices in the Silicon-Interconnect Fabric"
-  authors: "H. Ren, Z. Chen, J.-H. Liu, C.-T. Yang, B. Yang, B. Vaisband, and S. S. Iyer"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 1994-1998, May
-  code:
-  note: 
-
-- category: conference
-  year: 2025
-  sort_date: 2025-05-01
-  title: "Through GaN Via for 3D Heterogeneous Strata Integration"
-  authors: "J.-H. Liu, H. Ren, C.-T. Yang, B. Vaisband, and S. S. Iyer"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 1958-1963, May
-  code:
-  note: 
-
-- category: conference
-  year: 2025
-  sort_date: 2025-05-01
-  title: "On-Chip Shoelace Fully Integrated Inductor"
-  authors: "Y. Zhao, Y. Safari, and B. Vaisband"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 1424-1431, May
-  code:
-  note: 
-
-- category: conference
-  year: 2025
-  sort_date: 2025-04-01
-  title: "Behavioral Model of Charge-Trap Transistors for Neuromorphic Systems"
-  authors: "A. Saeed Monir, N. Rezazadeh, J. Gosson, and B. Vaisband"
-  venue: "Proceedings of the IEEE International Symposium on Quality Electronic Design (ISQED)"
-  doi:
-  pdf:
-  details: pp. 1-6, April
-  code:
-  note: 
-
-- category: conference
-  year: 2025
-  sort_date: 2025-03-01
-  title: "Back-Gate Mediated VTH Mismatch Reduction to Enable 6-bit Precision in FD-SOI Charge-Trap Transistors"
-  authors: "S. Qiao, S. Wang, J. Zhu, Z. Guo, M. Zeinali, V. K. Jacob, S. Chakrabarty, B. Vaisband, S. S. Iyer, and S. Pamarti"
-  venue: "Proceedings of the Government Microcircuit Applications & Critical Technology Conference (GOMACTech)"
-  doi:
-  pdf:
-  details: March
-  code:
-  note: 
-
-- category: conference
-  year: 2025
-  sort_date: 2025-01-01
-  title: "Graph-Based Timing Prediction at Early-Stage RTL Using Large Language Model"
-  authors: "F. R. Amik, Y. Safari, Z. Zhang, and B. Vaisband"
-  venue: "Proceedings of the IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)"
-  doi:
-  pdf:
-  details: pp. 393-400, January
-  code:
-  note: 
-
-- category: conference
-  year: 2024
-  sort_date: 2024-09-01
-  title: "Trench-Based Fully Integrated Capacitors for Power Delivery in Heterogeneous Integration Platforms"
-  authors: "Y. Safari, Y. Zhao, and B. Vaisband"
-  venue: "Proceedings of the IEEE Electronics System-Integration Technology Conference (ESTC)"
-  doi:
-  pdf:
-  details: pp. 1-8, September
-  code:
-  note: 
-
-- category: conference
-  year: 2024
-  sort_date: 2024-06-01
-  title: "Co-DTC: Concentric Trench-Based Integrated Capacitors for Advanced Chiplet-Based Platforms"
-  authors: "Y. Safari, Y. Zhao, and B. Vaisband"
-  venue: "Proceedings of the ACM/IEEE Great Lakes Symposium on VLSI (GLSVLSI)"
-  doi:
-  pdf:
-  details: pp. 1-6, June
-  code:
-  note: 
-
-- category: conference
-  year: 2024
-  sort_date: 2024-05-01
-  title: "Hybrid Interconnect Infrastructure for Inter-Chiplet Communication in Wafer-Scale Systems"
-  authors: "Y. Safari, R. Mohammadrezaee, D. Al Saleh, and B. Vaisband"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 2229-2236, May
-  code:
-  note: 
-
-- category: conference
-  year: 2023
-  sort_date: 2023-09-01
-  title: "P* Admissible Thermal-Aware Matrix Floorplanner for 3D ICs"
-  authors: "D. Al Saleh, Y. Safari, F. Rahman Amik, B. Vaisband"
-  venue: "Proceedings of the IEEE International System-on-Chip Conference (SoCC)"
-  doi:
-  pdf:
-  details: pp. 1-6, September
-  code:
-  note: 
-
-- category: conference
-  year: 2023
-  sort_date: 2023-07-01
-  title: "Hybrid Obfuscation of Chiplet-Based Systems"
-  authors: "Y. Safari, P. Aghanoury, S. S. Iyer, N. Sehatbakhsh, and B. Vaisband"
-  venue: "Proceedings of the IEEE/ACM Design Automation Conference (DAC)"
-  doi:
-  pdf:
-  details: pp. 1-6, July
-  code:
-  note: 
-
-- category: conference
-  year: 2023
-  sort_date: 2023-06-01
-  title: "Statistical Weight Refresh System for CTT-Based Synaptic Arrays"
-  authors: "S. Dayo, A. Saeed Monir, M. Karimi, and B. Vaisband"
-  venue: "Proceedings of the ACM/IEEE Great Lakes Symposium on VLSI (GLSVLSI)"
-  doi:
-  pdf:
-  details: Late Breaking Results, pp. 213-214, June
-  code:
-  note: Best Poster Award.
-
-- category: conference
-  year: 2023
-  sort_date: 2023-06-01
-  title: "Digital LIF Neuron for CTT-Based Neuromorphic Systems"
-  authors: "O. Gumus, M. Karimi, and B. Vaisband"
-  venue: "Proceedings of the ACM/IEEE Great Lakes Symposium on VLSI (GLSVLSI)"
-  doi:
-  pdf:
-  details: pp. 267-272, June
-  code:
-  note: 
-
-- category: conference
-  year: 2023
-  sort_date: 2023-05-01
-  title: "ARTSim: A Robust Thermal Simulator for Heterogeneous Integration Platforms"
-  authors: "Y. Safari, A. Corbier, D. Al Saleh, and B. Vaisband"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 1187-1193, May
-  code:
-  note: 
-
-- category: conference
-  year: 2022
-  sort_date: 2022-06-01
-  title: "Power Delivery for Ultra-Large-Scale Applications on Si-IF"
-  authors: "Y. Safari, A. Kroon, and B. Vaisband"
-  venue: "Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)"
-  doi:
-  pdf:
-  details: pp. 1605-1609, June
-  code:
-  note: 
-
-- category: conference
-  year: 2022
-  sort_date: 2022-06-01
-  title: "Split-Fabric: A Novel Wafer-Scale Hardware Obfuscation Methodology using Silicon Interconnect Fabric"
-  authors: "Y. Safari, Y.-T. Yang, S. S. Iyer, T. Nakatani, N. Levine, and B. Vaisband"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 660-667, June 
-  code:
-  note: 
-
-- category: conference
-  year: 2022
-  sort_date: 2022-04-01
-  title: "Integrated Power Delivery Methodology for 3D ICs"
-  authors: "Y. Safari and B. Vaisband"
-  venue: "Proceedings of the IEEE International Symposium on Quality Electronic Design (ISQED)"
-  doi:
-  pdf:
-  details: pp. 114‑119, April
-  code:
-  note: 
-
-- category: conference
-  year: 2021
-  sort_date: 2021-05-01
-  title: "Power Delivery for Silicon Interconnect Fabric"
-  authors: "Y. Safari and B. Vaisband"
-  venue: "Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)"
-  doi:
-  pdf:
-  details: pp. 1-5, May 
-  code:
-  note: 
-
-- category: conference
-  year: 2020
-  sort_date: 2020-10-01
-  title: "Multi-Bit CNT TSV for 3-D ICs"
-  authors: "B. Vaisband, A. Maurice, C. W. Tan, B. K. Tay, and E. G. Friedman"
-  venue: "Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)"
-  doi:
-  pdf:
-  details: pp. 1-5, October 
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-10-01
-  title: "Global and Semi-Global Communication on Silicon Interconnect Fabric"
-  authors: "B. Vaisband and S. S. Iyer"
-  venue: "Proceedings of the IEEE/ACM International Symposium on Networks-on-Chip (NOCS)"
-  doi:
-  pdf:
-  details: pp. 15:1-15:5, October 
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-06-01
-  title: "Communication Considerations for Silicon Interconnect Fabric"
-  authors: "B. Vaisband and S. S. Iyer"
-  venue: "Proceedings of the ACM/IEEE International Workshop on System Level Interconnect Prediction (SLIP)"
-  doi:
-  pdf:
-  details: pp. 1-6, June 2019 
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-03-01
-  title: "From Homogeneous SoCs to Heterogeneous SoWs"
-  authors: "S. S. Iyer, S. Jangam, and B. Vaisband"
-  venue: "Proceedings of the Government Microcircuit Applications & Critical Technology Conference (GOMACTech)"
-  doi:
-  pdf:
-  details: March 
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-04-01
-  title: "Reliability Evaluation of Silicon Interconnect Fabric Technology"
-  authors: "K. K. Thankappan, A. Bajwa, S. Jangam, B. Vaisband, and S. S. Iyer"
-  venue: "Proceedings of the IEEE International Reliability Physics Symposium (IRPS)"
-  doi:
-  pdf:
-  details: pp. 1-5, April  
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-05-01
-  title: "On-Chip ESD Monitor"
-  authors: "K. K. Thankappan, B. Vaisband, and S. S. Iyer"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 2225‑2233, May  
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-05-01
-  title: "Integration and Characterization of InP Dies on Silicon Interconnect Fabric"
-  authors: "E. Sorensen, B. Vaisband, S. Jangam, T. Shirley, and S. S. Iyer"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 543-549, May  
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-05-01
-  title: "PowerTherm Attach Process for Power Delivery and Heat Extraction in the Silicon-Interconnect Fabric using Thermocompression Bonding"
-  authors: "P. Ambhore, U. Mogera, B. Vaisband, M. Goorsky, and S. S. Iyer"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 1605-1610, May  
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-05-01
-  title: "Process Development of Power Delivery Through Wafer Vias for Silicon Interconnect Fabric"
-  authors: "M.-H. Liu, B. Vaisband, A. Hanna, Y. Luo, Z. Wan, and S. S. Iyer"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 579-586, May  
-  code:
-  note: 
-
-- category: conference
-  year: 2019
-  sort_date: 2019-05-01
-  title: "Dynamic Thermal Management of Silicon Interconnect Fabric using Flash Cooling"
-  authors: "U. Shah, U. Mogera, P. Ambore, B. Vaisband, S. S. Iyer, and T. S. Fisher"
-  venue: "Proceedings of the IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITHERM)"
-  doi:
-  pdf:
-  details: pp. 1228-1233, May  
-  code:
-  note: 
-
-- category: conference
-  year: 2018
-  sort_date: 2018-05-01
-  title: "Demonstration of a Heterogeneously Integrated System-on-Wafer (SoW) Assembly"
-  authors: "A. Bajwa, S. Jangam, S. Pal, B. Vaisband, R. Irwin, M. Goorsky, and S. S. Iyer"
-  venue: "Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)"
-  doi:
-  pdf:
-  details: pp. 1926‑1930, May 
-  code:
-  note: 
-
-- category: conference
-  year: 2018
-  sort_date: 2018-03-01
-  title: "Network on Interconnect Fabric"
-  authors: "B. Vaisband, A. Bajwa, and S. S. Iyer"
-  venue: "Proceedings of the IEEE International Symposium on Quality Electronic Design (ISQED)"
-  doi:
-  pdf:
-  details: pp. 138-143, March 
-  code:
-  note: 
-
-- category: conference
-  year: 2017
-  sort_date: 2017-10-01
-  title: "Distributed Sinusoidal Resonant Converter with High Step-Down Ratio"
-  authors: "K. Xu, B. Vaisband, G. Sizikov, X. Li, and E. G. Friedman"
-  venue: "Proceedings of the IEEE International Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS)"
-  doi:
-  pdf:
-  details: pp. 1-3, October
-  code:
-  note: 
-
-- category: conference
-  year: 2017
-  sort_date: 2017-05-01
-  title: "Hybrid Energy Harvesting in 3-D IC IoT Devices"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)"
-  doi:
-  pdf:
-  details: pp. 1-4, May 2017
-  code:
-  note: 
-
-- category: conference
-  year: 2017
-  sort_date: 2017-03-01
-  title: "3-D ICs as a Platform for IoT Devices"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Proceedings of the Government Microcircuit Applications & Critical Technology Conference (GOMACTech)"
-  doi:
-  pdf:
-  details: March
-  code:
-  note: 
-
-- category: conference
-  year: 2017
-  sort_date: 2017-03-01
-  title: "Noise Coupling in TSV-Based Heterogeneous 3-D ICs"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Proceedings of the Government Microcircuit Applications & Critical Technology Conference (GOMACTech)"
-  doi:
-  pdf:
-  details: March
-  code:
-  note: 
-
-- category: conference
-  year: 2016
-  sort_date: 2016-05-01
-  title: "Layer Ordering to Minimize TSVs in Heterogeneous 3-D ICs"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)"
-  doi:
-  pdf:
-  details: pp. 1926-1929, May
-  code:
-  note: 
-
-- category: conference
-  year: 2015
-  sort_date: 2015-05-01
-  title: "3-D Floorplanning Algorithm to Minimize Thermal Interactions"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)"
-  doi:
-  pdf:
-  details: pp. 2133-2136, May 
-  code:
-  note: 
-
-- category: conference
-  year: 2014
-  sort_date: 2014-06-01
-  title: "Thermal Conduction Path Analysis in 3-D ICs"
-  authors: "B. Vaisband, I. Savidis, and E. G. Friedman"
-  venue: "Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)"
-  doi:
-  pdf:
-  details: pp. 594-597, June  
-  code:
-  note: 
-
+# Publications
+# DO NOT EDIT BY HAND - generated from Zotero by scripts/zotero-sync.ts.
+# Edit the Zotero group library instead; changes sync automatically.
 - category: conference
   year: 2013
-  sort_date: 2013-11-01
-  title: "Analysis of Thermal Paths in 3-D Structures"
-  authors: "B. Vaisband and E. G. Friedman"
-  venue: "Proceedings of the 37th Annual IEEE EDS/CAS Activities in Western New York Conference"
-  doi:
-  pdf:
-  details: p. 6, November   
-  code:
-  note: 
+  sort_date: '2013-11-01'
+  title: Analysis of Thermal Paths in 3-D Structures
+  authors: B. Vaisband and E. G. Friedman
+  venue: Proceedings of the 37th Annual IEEE EDS/CAS Activities in Western New York Conference
+  details: 'p. 6, November'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2014
+  sort_date: '2014-06-01'
+  title: Thermal Conduction Path Analysis in 3-D ICs
+  authors: 'B. Vaisband, I. Savidis, and E. G. Friedman'
+  venue: Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)
+  details: 'pp. 594-597, June'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2015
+  sort_date: '2015-05-01'
+  title: 3-D Floorplanning Algorithm to Minimize Thermal Interactions
+  authors: B. Vaisband and E. G. Friedman
+  venue: Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)
+  details: 'pp. 2133-2136, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2015
+  sort_date: '2015-10-01'
+  title: Experimental Analysis of Thermal Coupling in 3-D Integrated Circuits
+  authors: 'I. Savidis, B. Vaisband, and E. G. Friedman'
+  venue: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
+  details: 'Vol. 23, No. 10, pp. 2077-2089, October'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2016
+  sort_date: '2016-05-01'
+  title: Layer Ordering to Minimize TSVs in Heterogeneous 3-D ICs
+  authors: B. Vaisband and E. G. Friedman
+  venue: Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)
+  details: 'pp. 1926-1929, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2016
+  sort_date: '2016-08-01'
+  title: Noise Coupling Models in Heterogeneous 3-D ICs
+  authors: B. Vaisband and E. G. Friedman
+  venue: 'IEEE Transactions on Very Large Scale Integration (VLSI) Systems, (TVLSI)'
+  details: 'Vol. 24, No. 8, pp. 2778-2786, August'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2017
+  sort_date: '2017-01-01'
+  title: Hexagonal TSV Bundle Topology for 3-D ICs
+  authors: B. Vaisband and E. G. Friedman
+  venue: 'IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)'
+  details: 'Vol. 64, No. 1, pp. 11-15, January'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: book_chapter
+  year: 2017
+  sort_date: '2017-01-01'
+  title: Substrate Noise Coupling in Heterogeneous 3-D ICs
+  authors: B. Vaisband and E. G. Friedman
+  venue: 'Three-Dimensional Integrated Circuit Design, 2nd Edition'
+  publisher: Morgan Kaufmann
+  editor: 'V. F. Pavlidis, I. Savidis, and E. G. Friedman'
+  link: null
+  note: null
+- category: book_chapter
+  year: 2017
+  sort_date: '2017-01-01'
+  title: 3-D IC Floorplanning Based on Thermal Interactions
+  authors: B. Vaisband and E. G. Friedman
+  venue: Noise Coupling in System-on-Chip
+  publisher: CRC Press
+  editor: T. Noulis
+  link: null
+  note: null
+- category: book_chapter
+  year: 2017
+  sort_date: '2017-01-01'
+  title: TSV to Substrate Noise Coupling in Heterogeneous 3-D ICs
+  authors: B. Vaisband and E. G. Friedman
+  venue: Noise Coupling in System-on-Chip
+  publisher: CRC Press
+  editor: T. Noulis
+  link: null
+  note: null
+- category: conference
+  year: 2017
+  sort_date: '2017-03-01'
+  title: 3-D ICs as a Platform for IoT Devices
+  authors: B. Vaisband and E. G. Friedman
+  venue: >-
+    Proceedings of the Government Microcircuit Applications & Critical Technology Conference
+    (GOMACTech)
+  details: March
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2017
+  sort_date: '2017-03-01'
+  title: Noise Coupling in TSV-Based Heterogeneous 3-D ICs
+  authors: B. Vaisband and E. G. Friedman
+  venue: >-
+    Proceedings of the Government Microcircuit Applications & Critical Technology Conference
+    (GOMACTech)
+  details: March
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2017
+  sort_date: '2017-05-01'
+  title: Hybrid Energy Harvesting in 3-D IC IoT Devices
+  authors: B. Vaisband and E. G. Friedman
+  venue: Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)
+  details: 'pp. 1-4, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2017
+  sort_date: '2017-10-01'
+  title: Distributed Sinusoidal Resonant Converter with High Step-Down Ratio
+  authors: 'K. Xu, B. Vaisband, G. Sizikov, X. Li, and E. G. Friedman'
+  venue: >-
+    Proceedings of the IEEE International Conference on Electrical Performance of Electronic
+    Packaging and Systems (EPEPS)
+  details: 'pp. 1-3, October'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2018
+  sort_date: '2018-03-01'
+  title: Network on Interconnect Fabric
+  authors: 'B. Vaisband, A. Bajwa, and S. S. Iyer'
+  venue: Proceedings of the IEEE International Symposium on Quality Electronic Design (ISQED)
+  details: 'pp. 138-143, March'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2018
+  sort_date: '2018-05-01'
+  title: Demonstration of a Heterogeneously Integrated System-on-Wafer (SoW) Assembly
+  authors: 'A. Bajwa, S. Jangam, S. Pal, B. Vaisband, R. Irwin, M. Goorsky, and S. S. Iyer'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 1926‑1930, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2018
+  sort_date: '2018-05-01'
+  title: Electrical and Thermal Models of CNT TSV and Graphite Interface
+  authors: 'B. Vaisband, A. Maurice, C. W. Tan, B. K. Tay, and E. G. Friedman'
+  venue: IEEE Transactions on Electron Devices (TED)
+  details: 'Vol. 65, No. 5, pp. 1880-1886, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2018
+  sort_date: '2018-10-01'
+  title: Heterogeneous 3-D ICs as a Platform for Hybrid Energy Harvesting in IoT Systems
+  authors: B. Vaisband and E. G. Friedman
+  venue: Future Generation Computer Systems (FGCS)
+  details: 'Vol. 87, pp. 152-158, October'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-03-01'
+  title: From Homogeneous SoCs to Heterogeneous SoWs
+  authors: 'S. S. Iyer, S. Jangam, and B. Vaisband'
+  venue: >-
+    Proceedings of the Government Microcircuit Applications & Critical Technology Conference
+    (GOMACTech)
+  details: March
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-04-01'
+  title: Reliability Evaluation of Silicon Interconnect Fabric Technology
+  authors: 'K. K. Thankappan, A. Bajwa, S. Jangam, B. Vaisband, and S. S. Iyer'
+  venue: Proceedings of the IEEE International Reliability Physics Symposium (IRPS)
+  details: 'pp. 1-5, April'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2019
+  sort_date: '2019-04-01'
+  title: >-
+    Power Noise and Near Field EMI of High Current System-in-Package with VR Top and Bottom
+    Placement
+  authors: 'K. Xu, B. Vaisband, G. Sizikov, X. Li, and E. G. Friedman'
+  venue: 'IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)'
+  details: 'Vol. 9, No. 4, pp. 712-718, April'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-05-01'
+  title: Dynamic Thermal Management of Silicon Interconnect Fabric using Flash Cooling
+  authors: 'U. Shah, U. Mogera, P. Ambore, B. Vaisband, S. S. Iyer, and T. S. Fisher'
+  venue: >-
+    Proceedings of the IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in
+    Electronic Systems (ITHERM)
+  details: 'pp. 1228-1233, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-05-01'
+  title: On-Chip ESD Monitor
+  authors: 'K. K. Thankappan, B. Vaisband, and S. S. Iyer'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 2225‑2233, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-05-01'
+  title: Integration and Characterization of InP Dies on Silicon Interconnect Fabric
+  authors: 'E. Sorensen, B. Vaisband, S. Jangam, T. Shirley, and S. S. Iyer'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 543-549, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-05-01'
+  title: >-
+    PowerTherm Attach Process for Power Delivery and Heat Extraction in the Silicon-Interconnect
+    Fabric using Thermocompression Bonding
+  authors: 'P. Ambhore, U. Mogera, B. Vaisband, M. Goorsky, and S. S. Iyer'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 1605-1610, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-05-01'
+  title: Process Development of Power Delivery Through Wafer Vias for Silicon Interconnect Fabric
+  authors: 'M.-H. Liu, B. Vaisband, A. Hanna, Y. Luo, Z. Wan, and S. S. Iyer'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 579-586, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: patent
+  year: 2019
+  sort_date: '2019-05-09'
+  title: Power Distribution within Silicon Interconnect Fabric
+  authors: 'B. Vaisband, S. S. Iyer, and A. Bajwa'
+  venue: United States Patent
+  status: 'Published May 9, 2019'
+  number: WO2019089935A1
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-06-01'
+  title: Communication Considerations for Silicon Interconnect Fabric
+  authors: B. Vaisband and S. S. Iyer
+  venue: >-
+    Proceedings of the ACM/IEEE International Workshop on System Level Interconnect Prediction
+    (SLIP)
+  details: 'pp. 1-6, June'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2019
+  sort_date: '2019-10-01'
+  title: Global and Semi-Global Communication on Silicon Interconnect Fabric
+  authors: B. Vaisband and S. S. Iyer
+  venue: Proceedings of the IEEE/ACM International Symposium on Networks-on-Chip (NOCS)
+  details: 'pp. 15:1-15:5, October'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2019
+  sort_date: '2019-11-01'
+  title: 'Silicon Interconnect Fabric: A Versatile Heterogeneous Integration Platform for AI Systems'
+  authors: 'S. S. Iyer, S. Jangam, and B. Vaisband'
+  venue: IBM Journal of Research and Development
+  details: 'Vol. 63, No. 6, pp. 5:1-5:16, November/December'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2020
+  sort_date: '2020-02-01'
+  title: EMI Suppression with Distributed LLC Resonant Converter for High Voltage VR-on-Package
+  authors: 'K. Xu, B. Vaisband, G. Sizikov, X. Li, and E. G. Friedman'
+  venue: 'IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)'
+  details: 'Vol. 10, No. 2, pp. 263-271, February'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2020
+  sort_date: '2020-03-01'
+  title: >-
+    Assembly Process and Electrical Property of Top-Transferred Graphene on Carbon Nanotubes for
+    Carbon-Based Three-Dimensional Interconnects
+  authors: 'Y. Zhu, C. W. Tan, S. L. Chua, Y. D. Lim, B. Vaisband, B. K. Tay, E. G. Friedman, and C. S. Tan'
+  venue: 'IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)'
+  details: 'Vol. 10, No. 3, pp. 516-524, March'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2020
+  sort_date: '2020-10-01'
+  title: Multi-Bit CNT TSV for 3-D ICs
+  authors: 'B. Vaisband, A. Maurice, C. W. Tan, B. K. Tay, and E. G. Friedman'
+  venue: Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)
+  details: 'pp. 1-5, October'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2021
+  sort_date: '2021-05-01'
+  title: Power Delivery for Silicon Interconnect Fabric
+  authors: Y. Safari and B. Vaisband
+  venue: Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)
+  details: 'pp. 1-5, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: book_chapter
+  year: 2022
+  sort_date: '2022-01-01'
+  title: Heterogeneous Integration at Scale
+  authors: S. S. Iyer and B. Vaisband
+  venue: 'Advances in Semiconductor Technologies: Selected Topics Beyond Conventional CMOS'
+  publisher: Wiley/IEEE
+  editor: A. Chen
+  link: null
+  note: null
+- category: journal
+  year: 2022
+  sort_date: '2022-02-01'
+  title: Wafer-Scale Integration
+  authors: Y. Safari and B. Vaisband
+  venue: Wiley Encyclopedia of Electrical and Electronics Engineering
+  details: 'pp. 1-10, February'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: patent
+  year: 2022
+  sort_date: '2022-02-01'
+  title: Network on Interconnect Fabric and Integrated Antenna
+  authors: 'B. Vaisband, S. S. Iyer, A. Bajwa, A. Dasgupta, and A. Alam'
+  venue: United States Patent
+  status: 'Published February 1, 2022'
+  number: US11239542B2
+  link: null
+  note: null
+- category: conference
+  year: 2022
+  sort_date: '2022-04-01'
+  title: Integrated Power Delivery Methodology for 3D ICs
+  authors: Y. Safari and B. Vaisband
+  venue: Proceedings of the IEEE International Symposium on Quality Electronic Design (ISQED)
+  details: 'pp. 114‑119, April'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2022
+  sort_date: '2022-06-01'
+  title: Power Delivery for Ultra-Large-Scale Applications on Si-IF
+  authors: 'Y. Safari, A. Kroon, and B. Vaisband'
+  venue: Proceedings of the IEEE International Symposium on Circuits and Systems (ISCAS)
+  details: 'pp. 1605-1609, June'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2022
+  sort_date: '2022-06-01'
+  title: >-
+    Split-Fabric: A Novel Wafer-Scale Hardware Obfuscation Methodology using Silicon Interconnect
+    Fabric
+  authors: 'Y. Safari, Y.-T. Yang, S. S. Iyer, T. Nakatani, N. Levine, and B. Vaisband'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 660-667, June'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2022
+  sort_date: '2022-07-01'
+  title: An On-Chip ESD Sensor for Use in Advanced Packaging
+  authors: 'K. K. Thankappan, B. Vaisband, K. Sahoo, and S. S. Iyer'
+  venue: 'IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)'
+  details: 'Vol. 12, No. 7, pp. 1051-1062, July'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2022
+  sort_date: '2022-12-01'
+  title: >-
+    A 7.6‑ns Delay Subthreshold Level-Shifter Leveraging a Composite Transistor and a
+    Voltage-Controlled Current Source
+  authors: 'M. Karimi, M. Ali, A. Hassan, R. Bostani, B. Vaisband, M. Sawan, and B. Gosselin'
+  venue: IEEE Access
+  details: 'Vol. 10, pp. 132432-132447, December'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2023
+  sort_date: '2023-01-01'
+  title: A Robust Integrated Power Delivery Methodology for 3-D ICs
+  authors: Y. Safari and B. Vaisband
+  venue: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
+  details: 'Vol. 31, No. 3, pp. 287-295, January'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2023
+  sort_date: '2023-03-01'
+  title: CTT-Based Scalable Neuromorphic Architecture
+  authors: 'M. Karimi, A. Saeed Monir, R. Mohammadrezaee, and B. Vaisband'
+  venue: IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+  details: 'Vol. 13, No. 1, pp. 96-107, March'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: JETCAS Spotlight Paper.
+- category: conference
+  year: 2023
+  sort_date: '2023-05-01'
+  title: 'ARTSim: A Robust Thermal Simulator for Heterogeneous Integration Platforms'
+  authors: 'Y. Safari, A. Corbier, D. Al Saleh, and B. Vaisband'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 1187-1193, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2023
+  sort_date: '2023-06-01'
+  title: Statistical Weight Refresh System for CTT-Based Synaptic Arrays
+  authors: 'S. Dayo, A. Saeed Monir, M. Karimi, and B. Vaisband'
+  venue: Proceedings of the ACM/IEEE Great Lakes Symposium on VLSI (GLSVLSI)
+  details: 'Late Breaking Results, pp. 213-214, June'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: Best Poster Award.
+- category: conference
+  year: 2023
+  sort_date: '2023-06-01'
+  title: Digital LIF Neuron for CTT-Based Neuromorphic Systems
+  authors: 'O. Gumus, M. Karimi, and B. Vaisband'
+  venue: Proceedings of the ACM/IEEE Great Lakes Symposium on VLSI (GLSVLSI)
+  details: 'pp. 267-272, June'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2023
+  sort_date: '2023-07-01'
+  title: Hybrid Obfuscation of Chiplet-Based Systems
+  authors: 'Y. Safari, P. Aghanoury, S. S. Iyer, N. Sehatbakhsh, and B. Vaisband'
+  venue: Proceedings of the IEEE/ACM Design Automation Conference (DAC)
+  details: 'pp. 1-6, July'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2023
+  sort_date: '2023-09-01'
+  title: P* Admissible Thermal-Aware Matrix Floorplanner for 3D ICs
+  authors: 'D. Al Saleh, Y. Safari, F. Rahman Amik, and B. Vaisband'
+  venue: Proceedings of the IEEE International System-on-Chip Conference (SoCC)
+  details: 'pp. 1-6, September'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2024
+  sort_date: '2024-05-01'
+  title: Hybrid Interconnect Infrastructure for Inter-Chiplet Communication in Wafer-Scale Systems
+  authors: 'Y. Safari, R. Mohammadrezaee, D. Al Saleh, and B. Vaisband'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 2229-2236, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2024
+  sort_date: '2024-06-01'
+  title: 'Co-DTC: Concentric Trench-Based Integrated Capacitors for Advanced Chiplet-Based Platforms'
+  authors: 'Y. Safari, Y. Zhao, and B. Vaisband'
+  venue: Proceedings of the ACM/IEEE Great Lakes Symposium on VLSI (GLSVLSI)
+  details: 'pp. 1-6, June'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2024
+  sort_date: '2024-09-01'
+  title: >-
+    Trench-Based Fully Integrated Capacitors for Power Delivery in Heterogeneous Integration
+    Platforms
+  authors: 'Y. Safari, Y. Zhao, and B. Vaisband'
+  venue: Proceedings of the IEEE Electronics System-Integration Technology Conference (ESTC)
+  details: 'pp. 1-8, September'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: patent
+  year: 2024
+  sort_date: '2024-11-19'
+  title: On-chip Electrostatic Discharge Sensor
+  authors: 'S. S. Iyer, K. K. Thankappan, and B. Vaisband'
+  venue: United States Patent
+  status: 'Published November 19, 2024'
+  number: US12148748B2
+  link: null
+  note: null
+- category: conference
+  year: 2025
+  sort_date: '2025-01-01'
+  title: Graph-Based Timing Prediction at Early-Stage RTL Using Large Language Model
+  authors: 'F. R. Amik, Y. Safari, Z. Zhang, and B. Vaisband'
+  venue: Proceedings of the IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)
+  details: 'pp. 393-400, January'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2025
+  sort_date: '2025-03-01'
+  title: >-
+    Back-Gate Mediated VTH Mismatch Reduction to Enable 6-bit Precision in FD-SOI Charge-Trap
+    Transistors
+  authors: >-
+    S. Qiao, S. Wang, J. Zhu, Z. Guo, M. Zeinali, V. K. Jacob, S. Chakrabarty, B. Vaisband, S. S.
+    Iyer, and S. Pamarti
+  venue: >-
+    Proceedings of the Government Microcircuit Applications & Critical Technology Conference
+    (GOMACTech)
+  details: March
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2025
+  sort_date: '2025-04-01'
+  title: Behavioral Model of Charge-Trap Transistors for Neuromorphic Systems
+  authors: 'A. Saeed Monir, N. Rezazadeh, J. Gosson, and B. Vaisband'
+  venue: Proceedings of the IEEE International Symposium on Quality Electronic Design (ISQED)
+  details: 'pp. 1-6, April'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2025
+  sort_date: '2025-05-01'
+  title: Integrated Passive Devices in the Silicon-Interconnect Fabric
+  authors: 'H. Ren, Z. Chen, J.-H. Liu, C.-T. Yang, B. Yang, B. Vaisband, and S. S. Iyer'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 1994-1998, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2025
+  sort_date: '2025-05-01'
+  title: Through GaN Via for 3D Heterogeneous Strata Integration
+  authors: 'J.-H. Liu, H. Ren, C.-T. Yang, B. Vaisband, and S. S. Iyer'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 1958-1963, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2025
+  sort_date: '2025-05-01'
+  title: On-Chip Shoelace Fully Integrated Inductor
+  authors: 'Y. Zhao, Y. Safari, and B. Vaisband'
+  venue: Proceedings of the IEEE Electronic Components and Technology Conference (ECTC)
+  details: 'pp. 1424-1431, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2025
+  sort_date: '2025-06-01'
+  title: Thermal Simulator for Advanced Packaging and Chiplet-Based Systems
+  authors: 'Y. Safari, A. Corbier, D. Al Saleh, F. R. Amik, and B. Vaisband'
+  venue: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
+  details: 'Vol. 33, No. 6, pp. 1638-1650, June'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: Best of TVLSI Paper.
+- category: conference
+  year: 2025
+  sort_date: '2025-06-01'
+  title: >-
+    Power Delivery for Scaled-Out Chiplet-Based Wafer-Scale Systems with 8 um Cu-Cu Bond Pitch on
+    Active Si-Interconnect Fabric Substrate
+  authors: >-
+    H. Ren, Z. Guo, B. Yang, K. Sahoo, N. M. Sundaram, Z. Chen, S. Singh, T. S. Fisher, C.-K. K.
+    Yang, B. Razavi, B. Vaisband, and S. S. Iyer
+  venue: Proceedings of the IEEE Symposium on VLSI Technology and Circuits (VLSI Symposium)
+  details: June
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2025
+  sort_date: '2025-07-01'
+  title: Chiplets Interface Protocol (ChIP) for Ultra-Large-Scale Applications
+  authors: A. Delavari and B. Vaisband
+  venue: IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+  details: 'Vol. 15, No. 3, pp. 585-598, July'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2026
+  sort_date: '2026-01-01'
+  title: Hardware-Aware Offline Training of CTT-Based Neuromorphic Hardware
+  authors: 'R. Mohammadrezaee, A. Saeed Monir, O. T. Gumus, N. Shams, and B. Vaisband'
+  venue: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
+  details: 'Vol. 34, No. 5, pp. 1528-1541, January'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2026
+  sort_date: '2026-04-01'
+  title: 'TSV-Based Shoelace Inductor: A High-Density Solution for Advanced Packaging Platforms'
+  authors: 'Y. Zhao, Y. Safari, and B. Vaisband'
+  venue: 'IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)'
+  details: 'Vol. 16, No. 4, pp. 703-717, April'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: journal
+  year: 2026
+  sort_date: '2026-05-01'
+  title: Near Real-Time Spike-Driven Synaptic Plasticity for CTT-Based Neuromorphic Systems
+  authors: 'A. Chandrasekaran, S. Dayo, M. Karimi, and B. Vaisband'
+  venue: IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+  details: 'Vol. 16, No. 2, pp. 593-606, May'
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: null
+- category: conference
+  year: 2026
+  sort_date: '2026-06-01'
+  title: Multi-Range Communication for Chiplet-Based Systems
+  authors: 'A. Delavari, A. Chandrasekaran, and B. Vaisband'
+  venue: Proceedings of the ACM Great Lakes Symposium on VLSI (GLSVLSI)
+  details: June
+  doi: null
+  pdf: null
+  code: null
+  link: null
+  note: Best Poster Award.

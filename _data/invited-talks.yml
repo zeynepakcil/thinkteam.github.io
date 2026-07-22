@@ -1,199 +1,183 @@
-- year: 2026
-  sort_date: "2026-06-01"
-  speaker: "B. Vaisband (Panelist)"
-  title: "Will Hardware Engineers Also Lose Jobs to Generative AI?"
-  venue: "ACM Great Lakes Symposium on VLSI (GLSVLSI)"
-  location: 
-  date: "June 2026"
-  note:
-  link:
-
-- year: 2026
-  sort_date: "2026-03-01"
-  speaker: "B. Vaisband"
-  title: "Designing Chiplet-Based Heterogeneous Integration Systems"
-  venue: "Qualcomm"
-  location: 
-  date: "March 2026"
-  note:
-  link:
-
-- year: 2026
-  sort_date: "2026-02-01"
-  speaker: "B. Vaisband (Panelist)"
-  title: 
-  venue: "Keysight Wireless and Digital Health Seminar"
-  location: 
-  date: "February 2026"
-  note:
-  link:
-
-- year: 2025
-  sort_date: "2025-10-01"
-  speaker: "B. Vaisband"
-  title: "Chiplet-Based Heterogeneous Integration for Ultra-Large-Scale Applications"
-  venue: "CA DREAMS, Microelectronics Commons Hub Technical Seminar Series"
-  location: 
-  date: "October 2025"
-  note:
-  link:
-  
-- year: 2025
-  sort_date: "2025-11-01"
-  speaker: "B. Vaisband"
-  title: "Chiplet-Based Heterogeneous Integration for Ultra-Large-Scale Applications"
-  venue: "University of California, Riverside Technical Seminar Series"
-  location: 
-  date: "November 2025"
-  note:
-  link:
-
-- year: 2025
-  sort_date: "2025-11-01"
-  speaker: "B. Vaisband (Panelist)"
-  title: "Scaling Beyond Moore's Law: Heterogeneous Computing and Advanced Packaging"
-  venue: "ASM International Symposium for Testing and Failure Analysis (ISTFA)"
-  location: 
-  date: "November 2025"
-  note:
-  link:
-
-- year: 2025
-  sort_date: "2025-09-01"
-  speaker: "B. Vaisband"
-  title: "Chiplet-Based Heterogeneous Integration for Ultra-Large-Scale Applications"
-  venue: "IEEE EPS Orange County Chapter"
-  location: 
-  date: "September 2025"
-  note:
-  link:
-
-- year: 2025
-  sort_date: "2025-05-01"
-  speaker: "B. Vaisband"
-  title: "Thermal Management in Advanced Packaging"
-  venue: Ansys
-  location: 
-  date: "May 2025"
-  note:
-  link:
-  
-- year: 2025
-  sort_date: "2025-03-01"
-  speaker: "B. Vaisband (Panelist)"
-  title: 
-  venue: "SEMI Workshop on Future of Computing: Sustainable AI Systems"
-  location: 
-  date: "March 2025"
-  note:
-  link:
-  
-- year: 2025
-  sort_date: "2025-03-01"
-  speaker: "B. Vaisband"
-  title: "Chiplet-Based Integration: Scale-Down and Scale-Out"
-  venue: "ACM International Symposium on Physical Design (ISPD)"
-  location: 
-  date: "March 2025"
-  note:
-  link:
-
-- year: 2025
-  sort_date: "2025-02-01"
-  speaker: "B. Vaisband"
-  title: "Chiplet-Based Heterogeneous Integration for High-Performance Compute Systems"
-  venue: "ECE Department Seminar, Villanova University"
-  location: 
-  date: "February 2025"
-  note:
-  link:
-
-- year: 2023
-  sort_date: "2023-05-01"
-  speaker: "B. Vaisband"
-  title: "Chiplet-Based Heterogeneous Integration"
-  venue: "IEEE EPS Chapter, University of Waterloo"
-  location: 
-  date: "May 2023"
-  note:
-  link:
-  
+# Invited talks
+# DO NOT EDIT BY HAND - generated from Zotero by scripts/zotero-sync.ts.
+# Edit the Zotero group library instead; changes sync automatically.
+- year: 2018
+  sort_date: '2018-08-01'
+  speaker: B. Vaisband
+  title: 'Silicon Interconnect Fabric: A Platform for Heterogeneous Integration'
+  venue: ASCENT (SRC JUMP Center) Annual Review
+  location: ''
+  date: August 2018
+  note: null
+  link: null
+- year: 2018
+  sort_date: '2018-10-01'
+  speaker: B. Vaisband
+  title: A Network for Silicon Interconnect Fabric
+  venue: International Symposium on Microelectronics (IMAPS)
+  location: ''
+  date: October 2018
+  note: null
+  link: null
+- year: 2018
+  sort_date: '2018-10-02'
+  speaker: B. Vaisband
+  title: Design of Ultra-Large Wafer-Level Systems
+  venue: International System-on-Chip Conference
+  location: ''
+  date: October 2018
+  note: null
+  link: null
+- year: 2020
+  sort_date: '2020-03-01'
+  speaker: B. Vaisband
+  title: 'Silicon Interconnect Fabric: A Versatile Heterogeneous Integration Platform'
+  venue: MiQro Innovation Collaborative Centre (C2MI)
+  location: 'Bromont, QC'
+  date: March 2020
+  note: null
+  link: null
+- year: 2020
+  sort_date: '2020-06-02'
+  speaker: S. S. Iyer and B. Vaisband
+  title: 'Silicon Interconnect Fabric: A Paradigm Shift in Heterogeneous Integration'
+  venue: CMC Microsystems Webinar
+  location: ''
+  date: June 2020
+  note: null
+  link: null
+- year: 2021
+  sort_date: '2021-04-01'
+  speaker: B. Vaisband
+  title: Wafer-Scale Heterogeneous Integration
+  venue: 'IEEE Joint EPS/EMC, Montreal Chapter'
+  location: ''
+  date: April 2021
+  note: null
+  link: null
+- year: 2021
+  sort_date: '2021-11-01'
+  speaker: B. Vaisband (Keynote Speaker)
+  title: Chiplet-Based Heterogeneous Integration
+  venue: IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH)
+  location: ''
+  date: November 2021
+  note: null
+  link: null
 - year: 2022
-  sort_date: "2022-06-01"
-  speaker: "B. Vaisband"
-  title: "Chiplet-Based Heterogeneous Integration"
-  venue: "Microelectronics Seminar Course, Bar-Ilan University"
-  location: 
-  date: "June 2022"
-  note:
-  link:
-
-- year: 2021
-  sort_date: "2021-11-01"
-  speaker: "B. Vaisband (Keynote Speaker)"
-  title: "Chiplet-Based Heterogeneous Integration"
-  venue: "IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH)"
-  location: 
-  date: "November 2021"
-  note:
-  link:
-
-- year: 2021
-  sort_date: "2021-04-01"
-  speaker: "B. Vaisband"
-  title: "Wafer-Scale Heterogeneous Integration"
-  venue: "IEEE Joint EPS/EMC, Montreal Chapter"
-  location: 
-  date: "April 2021"
-  note:
-  link:
-
-- year: 2020
-  sort_date: "2020-06-02"
-  speaker: "S. S. Iyer and B. Vaisband"
-  title: "Silicon Interconnect Fabric: A Paradigm Shift in Heterogeneous Integration"
-  venue: "CMC Microsystems Webinar"
-  location:
-  date: "June 2020"
-  note:
-  link:
-
-- year: 2020
-  sort_date: "2020-03-01"
-  speaker: "B. Vaisband"
-  title: "Silicon Interconnect Fabric: A Versatile Heterogeneous Integration Platform"
-  venue: "MiQro Innovation Collaborative Centre (C2MI)"
-  location: "Bromont, QC"
-  date: "March 2020"
-  note:
-  link:
-
-- year: 2018
-  sort_date: "2018-10-02"
-  speaker: "B. Vaisband"
-  title: "Design of Ultra-Large Wafer-Level Systems"
-  venue: "International System-on-Chip Conference"
-  location:
-  date: "October 2018"
-  note:
-  link:
-
-- year: 2018
-  sort_date: "2018-10-01"
-  speaker: "B. Vaisband"
-  title: "A Network for Silicon Interconnect Fabric"
-  venue: "International Symposium on Microelectronics (IMAPS)"
-  location:
-  date: "October 2018"
-  note:
-  link:
-
-- year: 2018
-  sort_date: "2018-08-01"
-  speaker: "B. Vaisband"
-  title: "Silicon Interconnect Fabric: A Platform for Heterogeneous Integration"
-  venue: "ASCENT (SRC JUMP Center) Annual Review"
-  location:
-  date: "August 2018"
-  note:
-  link:
+  sort_date: '2022-06-01'
+  speaker: B. Vaisband
+  title: Chiplet-Based Heterogeneous Integration
+  venue: 'Microelectronics Seminar Course, Bar-Ilan University'
+  location: ''
+  date: June 2022
+  note: null
+  link: null
+- year: 2023
+  sort_date: '2023-05-01'
+  speaker: B. Vaisband
+  title: Chiplet-Based Heterogeneous Integration
+  venue: 'IEEE EPS Chapter, University of Waterloo'
+  location: ''
+  date: May 2023
+  note: null
+  link: null
+- year: 2025
+  sort_date: '2025-02-01'
+  speaker: B. Vaisband
+  title: Chiplet-Based Heterogeneous Integration for High-Performance Compute Systems
+  venue: 'ECE Department Seminar, Villanova University'
+  location: ''
+  date: February 2025
+  note: null
+  link: null
+- year: 2025
+  sort_date: '2025-03-01'
+  speaker: B. Vaisband (Panelist)
+  title: ''
+  venue: 'SEMI Workshop on Future of Computing: Sustainable AI Systems'
+  location: ''
+  date: March 2025
+  note: null
+  link: null
+- year: 2025
+  sort_date: '2025-03-01'
+  speaker: B. Vaisband
+  title: 'Chiplet-Based Integration: Scale-Down and Scale-Out'
+  venue: ACM International Symposium on Physical Design (ISPD)
+  location: ''
+  date: March 2025
+  note: null
+  link: null
+- year: 2025
+  sort_date: '2025-05-01'
+  speaker: B. Vaisband
+  title: Thermal Management in Advanced Packaging
+  venue: Ansys
+  location: ''
+  date: May 2025
+  note: null
+  link: null
+- year: 2025
+  sort_date: '2025-09-01'
+  speaker: B. Vaisband
+  title: Chiplet-Based Heterogeneous Integration for Ultra-Large-Scale Applications
+  venue: IEEE EPS Orange County Chapter
+  location: ''
+  date: September 2025
+  note: null
+  link: null
+- year: 2025
+  sort_date: '2025-10-01'
+  speaker: B. Vaisband
+  title: Chiplet-Based Heterogeneous Integration for Ultra-Large-Scale Applications
+  venue: 'CA DREAMS, Microelectronics Commons Hub Technical Seminar Series'
+  location: ''
+  date: October 2025
+  note: null
+  link: null
+- year: 2025
+  sort_date: '2025-11-01'
+  speaker: B. Vaisband
+  title: Chiplet-Based Heterogeneous Integration for Ultra-Large-Scale Applications
+  venue: 'University of California, Riverside Technical Seminar Series'
+  location: ''
+  date: November 2025
+  note: null
+  link: null
+- year: 2025
+  sort_date: '2025-11-01'
+  speaker: B. Vaisband (Panelist)
+  title: 'Scaling Beyond Moore''s Law: Heterogeneous Computing and Advanced Packaging'
+  venue: ASM International Symposium for Testing and Failure Analysis (ISTFA)
+  location: ''
+  date: November 2025
+  note: null
+  link: null
+- year: 2026
+  sort_date: '2026-02-01'
+  speaker: B. Vaisband (Panelist)
+  title: ''
+  venue: Keysight Wireless and Digital Health Seminar
+  location: ''
+  date: February 2026
+  note: null
+  link: null
+- year: 2026
+  sort_date: '2026-03-01'
+  speaker: B. Vaisband
+  title: Designing Chiplet-Based Heterogeneous Integration Systems
+  venue: Qualcomm
+  location: ''
+  date: March 2026
+  note: null
+  link: null
+- year: 2026
+  sort_date: '2026-06-01'
+  speaker: B. Vaisband (Panelist)
+  title: Will Hardware Engineers Also Lose Jobs to Generative AI?
+  venue: ACM Great Lakes Symposium on VLSI (GLSVLSI)
+  location: ''
+  date: June 2026
+  note: null
+  link: null

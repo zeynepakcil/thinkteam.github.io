@@ -1,6 +1,6 @@
 ---
 title: First Last
-name_degree: First Last, MD PhD JD
+name_degree: First Last, BS MS PhD 
 
 photo: first-last.png # this file is relative to `assets/img/members/fullsize`
 alt: Explanation # the alt text that describes this photo for screen reader users. Mandatory if you use a photo.
@@ -17,8 +17,8 @@ services:
 start: May 2020
 end:
 ---
-First Last, MD PhD JD, is a visiting scholar in the Department of Biomedical Informatics at Harvard Medical School.
+First Last is a XX in the Department of Electrical Engineering and Computer Science at University of California, Irvine.
 
-First Last received their PhD from the University of...
+First received their PhD from the University of...
  
 The goal of First's research is to...
