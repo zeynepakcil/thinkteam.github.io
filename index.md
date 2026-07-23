@@ -17,7 +17,7 @@ intro: |
   Follow us for updates from [THInK Team LinkedIn Page](https://www.linkedin.com/company/thinkteam-uci){:target="_blank"}.
 ---
 <h2>Latest News</h2>
-
+test
 <div class="news-box">
 {% assign latest_news = site.news | reverse %}
 {% for news in latest_news %}
