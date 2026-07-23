@@ -6,8 +6,8 @@ description: >
   We deep dive into fine-pitch integration platforms and generate design methodologies, circuits, 
   and EDA tools to increase system performance, reduce energy footprint, and enable novel applications.
 # baseurl: ""
-url: "https://zeynepakcil.github.io"
-baseurl: "/thinkteam.github.io"
+url: "https://thinkteam.github.io"
+baseurl: "thinkteam.github.io"
 
 twitter_username: "" # TODO
 github_username:  "https://github.com/THInK-Team"
