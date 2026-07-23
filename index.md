@@ -16,9 +16,6 @@ intro: |
 
   Follow us for updates from [THInK Team LinkedIn Page](https://www.linkedin.com/company/thinkteam-uci){:target="_blank"}.
 ---
-
-# THInK Team 
-
 <h2>Latest News</h2>
 
 <div class="news-box">
