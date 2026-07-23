@@ -29,7 +29,7 @@ layout: page
 
     {% if page.pdf %}
       <h2>PDF</h2>
-      <a src='/assets/papers'>/{{ page.pdf }}</a> TODO might be broken link check
+      <a href="{{ '/assets/papers/' | append: page.pdf | relative_url }}">{{ page.pdf }}</a>
     {% endif %}
   </div>
 
