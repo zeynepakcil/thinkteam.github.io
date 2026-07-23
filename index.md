@@ -8,7 +8,7 @@ hero:
   image: /assets/img/site/hero_entrance.jpg
 
 title: Home 
-tagline: <p align="right">"The<br>Heterogeneous<br>Integration<br>Knowledge<br>Team."</p>
+tagline: "The<br>Heterogeneous<br>Integration<br>Knowledge<br>Team."
 intro: |
   At THInK Team, we focus on enabling heterogeneous integration of systems. We deep dive into fine-pitch integration platforms and generate design methodologies, circuits, and EDA tools to increase system performance, reduce energy footprint, and enable novel applications. 
 
