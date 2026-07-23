@@ -14,7 +14,7 @@ services:
   scholar: https://scholar.google.com/citations?user=ixQwm6UAAAAJ&hl=en
   linked-in: https://www.linkedin.com/in/rezvan-mohammadrezaee
 
-start: September 2021
+start: 2021
 end:
 
 
