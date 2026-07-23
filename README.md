@@ -22,10 +22,37 @@ This overwrites `_data/publications.yml` and `_data/invited-talks.yml` and commi
     - `patent` for patents, 
     - `presentation` for invited talks.
 - Tag an item `website-ignore` to keep it in Zotero but hide it from the site.
-- Zotero's built-in fields don't cover everything (awards, PDF links, code links, etc.). Put those in the item's **Extra** field, one per line, e.g.:
+- Zotero's built-in fields don't cover everything (awards, PDF links, code links, etc.). Put those in the item's **Extra** field, one per line, e.g.:  
     Award: Best Paper Award.  
     PDF: https://example.com/paper.pdf  
     Code: https://github.com/THInK-Team/repo  
     Link: https://example.com  
 
 - Don't rely on Zotero's own URL field for a "Link", use `Link:` in Extra instead.
+
+
+## Adding a team member
+
+Copy `_members/template.md` to `_members/yourfirst-yourlast.md`. Filename becomes that person's ID and it is used to link them to news posts, projects, and publications. 
+Fill in the front matter: name, add and link your photo (goes in `assets/img/members/fullsize/`), job title, role, and start/end dates. 
+Write a short bio below the front matter.
+
+
+## Adding a news post
+
+Add a new file to `_news/`, named `YYYY-MM-DD-yournews.md`:
+
+```yaml
+---
+title: Short Headline Here
+blurb: One-sentence summary shown in the news list and on the homepage.
+date: 'yyyy-mm-dd'
+members: ['first-last', 'first-last']
+projects: []
+---
+
+Full story text in Markdown.
+```
+
+`members` should list filenames from `_members/` (without `.md`) so the post shows up automatically on each person's profile page. 
+Always set `date` explicitly rather than leaving it out.
