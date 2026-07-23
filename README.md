@@ -17,9 +17,9 @@ This overwrites `_data/publications.yml` and `_data/invited-talks.yml` and commi
 - Item type controls where it ends up: `journalArticle` → journal, `conferencePaper` → conference, `bookSection` → book chapter, `patent` → patent, `presentation` → invited talk.
 - Tag an item `website-ignore` to keep it in Zotero but hide it from the site.
 - Zotero's built-in fields don't cover everything (awards, PDF links, code links, etc.) — put those in the item's **Extra** field, one per line, e.g.:
-Award: Best Paper Award.
-PDF: https://example.com/paper.pdf
-Code: https://github.com/THInK-Team/repo
-Link: https://example.com
+    Award: Best Paper Award.
+    PDF: https://example.com/paper.pdf
+    Code: https://github.com/THInK-Team/repo
+    Link: https://example.com
 
 - Don't rely on Zotero's own URL field for a "Link" — leave it blank unless you deliberately want a link to show; use `Link:` in Extra instead, since importers often auto-fill the URL field and that would show a bogus link on every citation.
