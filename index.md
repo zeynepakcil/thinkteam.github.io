@@ -19,7 +19,7 @@ intro: |
   Our work can be found on [Google Scholar](https://scholar.google.com/citations?user=hE2xGEMAAAAJ&hl=en){:target="_blank"}.
 
   Follow us for updates from [THInK Team LinkedIn Page](https://www.linkedin.com/company/thinkteam-uci){:target="_blank"}.
----
+
 <h2>Latest News</h2>
 
 <div class="news-box">
