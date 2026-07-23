@@ -462,24 +462,38 @@ ol.publication-list {
 }
 
 .news-box {
-  max-height: 420px;
+  height: 320px;
   overflow-y: auto;
   margin-top: 1rem;
-  border: 1px solid $color-gray-lighter;
+  padding: 1.25rem 1.75rem;
+  background-color: #f5f5f5;
+  border: 1px solid $color-gray-light;
+  border-radius: 12px;
+
+  scrollbar-width: thin;
+  scrollbar-color: $color-gray-light transparent;
+}
+
+.news-box::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-box::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.news-box::-webkit-scrollbar-thumb {
+  background-color: $color-gray-light;
   border-radius: 8px;
-  padding: 1.25rem 1.5rem;
+  border: 2px solid #f5f5f5;
 }
 
 .news-box-item {
-  padding-bottom: 1rem;
-  margin-bottom: 1rem;
-  border-bottom: 1px solid $color-gray-lighter;
+  margin-bottom: 1.25rem;
 }
 
 .news-box-item:last-child {
-  border-bottom: none;
   margin-bottom: 0;
-  padding-bottom: 0;
 }
 
 .news-box-item h3 {
