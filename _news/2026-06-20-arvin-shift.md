@@ -1,7 +1,7 @@
 ---
 title: New paper update!
 blurb: Excellent collaborative work by the team on addressing the communication bottleneck in chiplet-based LLM accelerators.
-date: 'yyyy-mm-dd'
+date: '2026-06-27'
 members: ['arvin-delavari', 'boris-vaisband']
 projects: []
 ---
